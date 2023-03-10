@@ -1,0 +1,7 @@
+.box {
+    display: flex;
+    padding: 10px;
+    border: 5px solid #7d7dff;
+    background-image: linear-gradient(to bottom right, #7d7dff, #ffffff, #7d7dff);
+}
+
